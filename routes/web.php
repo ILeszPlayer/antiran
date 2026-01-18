@@ -11,6 +11,7 @@ use App\Http\Controllers\C_Loket;
 use App\Http\Controllers\C_Panggil;
 use App\Http\Controllers\C_Pengunjung;
 use App\Http\Controllers\C_User;
+//use Illuminate\Support\Facades\Route;
 
 /*
 |--------------------------------------------------------------------------
